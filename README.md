@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-Open Android Studio and select the AVD (Android Virtual device) you want to use. This can be found under 'More Actions' in the start screen. Then select AVD Manager. Next, choose from a virtual device you have already created or 'Create Virtual Device'. Once the AVD is active you can run the command `bash expo start` in the root of the directory. Then press `bash a ` to open the android emulator or select it from the 'Expo Developer tools' window which launches on localhost when starting.
+Open Android Studio and select the AVD (Android Virtual device) you want to use. This can be found under 'More Actions' in the start screen. Then select AVD Manager. Next, choose from a virtual device you have already created or 'Create Virtual Device'. Once the AVD is active you can run the command `expo start` in the root of the directory. Then press `a` to open the android emulator or select it from the 'Expo Developer tools' window which launches on localhost when starting.
 
 ## Notes
 
